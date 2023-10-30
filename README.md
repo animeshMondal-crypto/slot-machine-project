@@ -1,1 +1,1 @@
-# stunning-octo-tribble
+# slot-machine-project
